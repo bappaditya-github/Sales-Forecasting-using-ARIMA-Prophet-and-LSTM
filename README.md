@@ -63,4 +63,4 @@ This project focuses on time series forecasting for sales data using ARIMA, Prop
 - MIT License
 
 ## Contact
-- For inquiries, contact [Your Email Here].
+- For inquiries, contact bappadityaghosh.tn@gmail.com.
