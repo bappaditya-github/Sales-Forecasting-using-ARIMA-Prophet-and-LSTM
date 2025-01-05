@@ -64,3 +64,5 @@ This project focuses on time series forecasting for sales data using ARIMA, Prop
 
 ## Contact
 - For inquiries, contact bappadityaghosh.tn@gmail.com.
+
+## Updated Git
