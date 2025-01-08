@@ -10,6 +10,7 @@ src/
 ├── data_processor.py    # Code to clean and preprocess the datasets
 ├── model_trainer.py     # Code to train forecasting models like ARIMA, Prophet, LSTM
 ├── model_evaluator.py   # Code to evaluate the performance of models
+├── sales_forecasting.py # Code to forecast the sales
 ├── utils.py             # Utility functions for the project
 ```
 
